@@ -1,0 +1,6 @@
+fake-useragent
+reqests
+BeautifullSoup4
+lxml
+openai
+python-dotenv 
